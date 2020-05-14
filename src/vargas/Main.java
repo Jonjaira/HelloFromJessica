@@ -8,5 +8,7 @@ public class Main {
 // hello this is taylor
     System.out.println("Hello my name is: "+ name);
 
+    System.out.println("Hello Jessica, my name is Taylor");
+
     }
 }
